@@ -1,4 +1,4 @@
-# VideoPlayerManager
+# Updated with android x.   -> VideoPlayerManager
 This is a project designed to help controlling Android MediaPlayer class. It makes it easier to use MediaPlayer ListView and RecyclerView.
 Also it tracks the most visible item in scrolling list. When new item in the list become the most visible, this library gives and API to track it.
 
