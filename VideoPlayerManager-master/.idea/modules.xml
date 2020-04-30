@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VideoPlayerManager-master.iml" filepath="$PROJECT_DIR$/VideoPlayerManager-master.iml" group="VideoPlayerManager-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="VideoPlayerManager-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/list-visibility-utils/list-visibility-utils.iml" filepath="$PROJECT_DIR$/list-visibility-utils/list-visibility-utils.iml" group="VideoPlayerManager-master/list-visibility-utils" />
+      <module fileurl="file://$PROJECT_DIR$/video-player-manager/video-player-manager.iml" filepath="$PROJECT_DIR$/video-player-manager/video-player-manager.iml" group="VideoPlayerManager-master/video-player-manager" />
+    </modules>
+  </component>
+</project>

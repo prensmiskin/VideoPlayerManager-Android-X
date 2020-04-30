@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/vezir/.gradle/caches/transforms-2/files-2.1/173de8c433dc5f4aca0638778cb887e6/appcompat-1.0.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

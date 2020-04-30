@@ -1,0 +1,30 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        minSdkVersion 14
+        targetSdkVersion 23
+        versionCode 1
+        versionName "0.2"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    androidTestCompile 'androidx.test.ext:junit:1.1.1'
+    androidTestCompile 'androidx.test:rules:1.1.1'
+    androidTestCompile 'androidx.test.espresso:espresso-core:3.1.0'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'androidx.appcompat:appcompat:1.0.0'
+}

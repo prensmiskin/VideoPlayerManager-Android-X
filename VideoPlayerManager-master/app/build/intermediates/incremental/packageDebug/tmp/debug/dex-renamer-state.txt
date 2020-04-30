@@ -1,0 +1,4 @@
+#Thu Apr 30 16:09:26 EET 2020
+base.0=/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_video_sample_3_pic.png.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/drawable-xhdpi/video_sample_3_pic.png"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/layout_fragment_video_recycler_view.xml.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/layout/fragment_video_recycler_view.xml"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/menu_menu_video_list.xml.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/menu/menu_video_list.xml"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/layout_visibility_utils_activity.xml.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/layout/visibility_utils_activity.xml"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/layout_video_player_manager_fragment.xml.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/layout/video_player_manager_fragment.xml"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/drawable-hdpi_rocket_science1.png.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/drawable-hdpi/rocket_science1.png"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/layout_fragment_video_list_view.xml.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/layout/fragment_video_list_view.xml"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_video_sample_2_pic.png.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/drawable-xhdpi/video_sample_2_pic.png"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/layout-v21_activity_video_list.xml.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/layout-v21/activity_video_list.xml"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/drawable-hdpi_rocket_science2.png.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/drawable-hdpi/rocket_science2.png"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/layout_video_item.xml.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/layout/video_item.xml"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_video_sample_1_pic.png.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/drawable-xhdpi/video_sample_1_pic.png"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/layout_visibility_adapter_item.xml.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/layout/visibility_adapter_item.xml"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_video_sample_4_pic.png.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/drawable-xhdpi/video_sample_4_pic.png"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/build/intermediates/res/merged/debug/layout_activity_video_list.xml.flat",
+        "source": "/home/vezir/AndroidStudioProjects/VideoPlayerManager-master/app/src/main/res/layout/activity_video_list.xml"
+    }
+]
